@@ -8,8 +8,7 @@ Build a robust machine learning model using the Naive Bayes classifier.
 Evaluate the model’s performance using accuracy, classification report, and confusion matrix.
 Provide visual insights into the sentiment distribution and model performance.
 ## Dataset Used:
-
-- <a href="https://github.com/Paschal-lee/Wine-Quality-Prediction/blob/main/WineQT.csv">Dataset</a>
+- <a href="https://github.com/Paschal-lee/Sentiment-Analysis-of-Twitter-Data-Using-Naive-Bayes-Classifier/blob/main/Twitter_Data.csv">Dataset</a>
 
 ## Key Questions:
 How well does the Naive Bayes classifier perform for sentiment analysis of Twitter data?
